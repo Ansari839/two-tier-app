@@ -21,7 +21,7 @@ spec:
           image: abd126/flaskapp:latest
           env:
             - name: MYSQL_HOST
-              value: "mysql"
+              value: "10.104.40.237"
             - name: MYSQL_USER
               value: "root"
             - name: MYSQL_PASSWORD
